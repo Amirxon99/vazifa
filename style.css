@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+
+.ota{
+    background-color: bisque;
+}
+.karobka{
+    width: 350px;
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.karobka img{
+    width: 200px;
+
+}
